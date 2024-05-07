@@ -10,6 +10,5 @@
     }
     public void mostrarAltura(){
         System.out.println("mi altura "+this.altura);
-    }
-    
+}
 }
